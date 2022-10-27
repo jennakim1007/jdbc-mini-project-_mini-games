@@ -9,16 +9,13 @@ JAVA + JDBC  를 활용하여 콘솔로 나타낼 수 있는 3종 미니게임
 > 회원가입 및 로그인을 하여 다양한 게임을 플레이하고, 게임랭킹을 확인할 수 있는 프로그램입니다. <br>
 
 작업자 : [@dabinHam](https://github.com/dabinHam "@dabinHam"), [@DongWon1215](https://github.com/DongWon1215 "@DongWon1215"), [@jinsol1997](https://github.com/jinsol1997 "@jinsol1997"), [@jennakim1007](https://github.com/jennakim1007 "@jennakim1007"), [@kimjuhwan7](https://github.com/kimjuhwan7 "@kimjuhwan7")
+재작업자 : [@jennakim1007](https://github.com/jennakim1007 "@jennakim1007")
 
 <br>
 
 ## 기술/구조
 * JAVA 
     * `JDBC`
-    * `b`
-    * `c`
-    * `d`
-    * `e`
 * DBMS - `Oracle`
     * `RDS`  
 * SQL
@@ -59,23 +56,4 @@ JAVA + JDBC  를 활용하여 콘솔로 나타낼 수 있는 3종 미니게임
 ## 프로젝트 PPT 
 * [바이미디어 ppt(권한필요)](https://docs.google.com/presentation/d/1mu2yGWmM2BdlgIESETjKgNjJ1UQRWKgliYEMMvhr-lY/edit#slide=id.g172ef0b95dc_2_75 "바이미디어 ppt(권한필요)")
 <br><br>
-
-## 테스트 안내 
-**데이터베이스 초기세팅이 필요합니다.** 
-
-**1. 데이터베이스 세팅 :**
-* 설명
-* 설명
-<br>
-
-**2. 관리자 계정 :**
-* ID : aaa
-* PW : aaa
-<br>
-
-**3. 사용자 계정 :**
-* ID : bbb
-* PW : bbb
-<br><br>
-
 
