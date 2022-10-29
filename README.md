@@ -16,6 +16,8 @@ JAVA + JDBC  를 활용하여 콘솔로 나타낼 수 있는 3종 미니게임
 ## 기술/구조
 * JAVA 
     * `JDBC`
+    * `OOP`
+    * `Collection`
 * DBMS - `Oracle`
     * `RDS`  
 * SQL
